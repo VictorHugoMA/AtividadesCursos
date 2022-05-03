@@ -1,0 +1,8 @@
+1-2    -> print e input
+3-4    -> tipos
+5-15   -> math
+16-21  -> import
+22-27  -> manipulando strings
+28-45  -> estruturas condicionais (if, elif, else)
+46-56  -> estrutura de repetição (for)
+57-71  -> estrutura de repetição (while)
